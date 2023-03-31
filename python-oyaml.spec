@@ -1,6 +1,6 @@
 Name:		python-oyaml
 Version:	1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/o/oyaml/oyaml-%{version}.tar.gz
 Summary:	Ordered YAML: drop-in replacement for PyYAML which preserves dict ordering
 URL:		https://pypi.org/project/oyaml/
